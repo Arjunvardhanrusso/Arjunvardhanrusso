@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arjunvardhanrusso
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Hakell
+- 👀 I’m interested in Coding and in Software Development tools
 - 💞️ I’m looking to collaborate on MNC"s
 - 📫 How to reach me through arjunvardhanrusso@gmail.com / ch.sc.u4cse23001@ch.students.amrita.edu
 
